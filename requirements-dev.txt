@@ -1,2 +1,2 @@
--r requirements.txt
+-r requirements-stage3.txt
 pytest>=9,<10
